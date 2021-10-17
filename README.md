@@ -1,6 +1,6 @@
-# Crop-Stimulation (2020)
+# Crop-Stimulation (2021)
 Crop simulation program - tutorial for OOP
 
-Tasks 1-8
+A level class - Tasks 1-8
 
 https://pythonschool.net/oop/introduction-to-object-oriented-programming/
