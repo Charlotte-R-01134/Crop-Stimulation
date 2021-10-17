@@ -1,4 +1,4 @@
-# Crop-Stimulation
+# Crop-Stimulation (2020)
 Crop simulation program - tutorial for OOP
 
 Tasks 1-8
